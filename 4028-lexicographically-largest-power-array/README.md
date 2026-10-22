@@ -12,6 +12,8 @@
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">nums = [7,5]</span></p>
 
+
+
 <p><strong>Output:</strong> <span class="example-io">[0,0,0,0,0,0,0,0,0,0,0,0,2,1,2]</span></p>
 
 <p><strong>Explanation:</strong></p>
